@@ -52,7 +52,7 @@ Implement RNNs for sequence modeling tasks including text prediction, time serie
 - Epochs: 100
 
 **📊 Performance Results:**
-```
+
 Task                        Performance
 ──────────────────────────────────────────
 Next Word Prediction        Context-aware
@@ -61,14 +61,15 @@ Sentiment Analysis          85.3% accuracy
 Weather Forecasting         Low MAE
 Music Generation            Coherent melody
 
-**📈 Visualizations:**
+
+# Visualizations:
 
 - Stock price prediction curves
 - Sentiment classification examples
 - Temperature forecast graphs
 - Generated music notation
 
-**⚠️ Limitations Observed:**
+# ⚠️ Limitations Observed:
 
 - Vanishing gradient in long sequences
 - Limited long-term memory

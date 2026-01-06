@@ -1,30 +1,31 @@
-Lab 9 - Convolutional Neural Networks
-Objective
+## Lab 9 - Convolutional Neural Networks
+
+## Objective
 Build CNN models for image classification tasks.
-Topics Covered
 
-Convolutional layers
-Pooling layers
-Image preprocessing
-Model training and evaluation
-Confusion matrix visualization
+## Topics Covered
 
-Key Libraries
+- Convolutional layers
+- Pooling layers
+- Image preprocessing
+- Model training and evaluation
+- Confusion matrix visualization
 
-tensorflow.keras
-opencv-cv2
-kagglehub
-scikit-learn
+## Key Libraries
 
-Tasks Completed
+- tensorflow.keras
+- opencv-cv2
+- kagglehub
+- scikit-learn
 
-Cat vs Dog image classification
-Dataset organization and preprocessing
-Model architecture design
-Training and validation visualization
-Prediction on test images
+## Tasks Completed
 
-Files
+- Cat vs Dog image classification
+- Dataset organization and preprocessing
+- Model architecture design
+- Training and validation visualization
+- Prediction on test images
 
-Lab9_Assignment.ipynb
-Dataset: Kaggle Cat vs Dog
+## Files
+
+- Lab9_Assignment.ipynb
