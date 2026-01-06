@@ -1,3 +1,5 @@
+## Lab 8 - LSTM Networks
+
 ## 🎯 Objective:
 Implement LSTM networks for improved sequence modeling with better long-term memory capabilities.
 

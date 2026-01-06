@@ -1,3 +1,5 @@
+## Lab 6 - Artificial Neural Networks
+
 **🎯 Objective:**  
 Build and train feedforward artificial neural networks for various tasks including logic gates, regression, and classification.
 

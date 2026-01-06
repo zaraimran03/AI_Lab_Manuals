@@ -1,3 +1,5 @@
+## Lab 7 - Recurrent Neural Networks
+
 **🎯 Objective:**  
 Implement RNNs for sequence modeling tasks including text prediction, time series forecasting, and music generation.
 

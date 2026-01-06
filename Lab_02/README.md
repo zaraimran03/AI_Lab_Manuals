@@ -1,3 +1,5 @@
+## Lab 2 - Multiple & Logistic Regression
+
 **🎯 Objective:**  
 Implement multiple linear regression and logistic regression for prediction and classification tasks.
 

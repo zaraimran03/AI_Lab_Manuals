@@ -1,3 +1,6 @@
+
+## Lab 1 - Dataset Creation & Analysis
+
 **🎯 Objective:**  
 Learn how to create and upload datasets in Python, perform basic statistical analysis, and visualize data using graphs.
 

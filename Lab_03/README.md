@@ -1,3 +1,5 @@
+## Lab 3 - Decision Tree Classifier
+
 **🎯 Objective:**  
 Understand decision tree algorithms, entropy, information gain, and implement classification on various datasets.
 

@@ -1,3 +1,5 @@
+## Lab 4 - Random Forest & SVM
+
 **🎯 Objective:**  
 Implement ensemble methods (Random Forest) and Support Vector Machines for classification tasks.
 
